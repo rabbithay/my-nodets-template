@@ -1,5 +1,5 @@
 import dotenv from 'dotenv';
-import './database/database'
+import '../database/database'
 
 const envFile = '.env';
 
